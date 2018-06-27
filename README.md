@@ -7,13 +7,15 @@ The challenge was to guess the prices of flats in test.in based on models create
 
 Example functionality:
 
--pandas library
+-pandas, numpy and sklearn library,
 
--plots
-
--regression model
+-plots,
 
 -tree decisions models,
+
+-random forest model,
+
+-xgboost,
 
 -RMSE metric,
 
